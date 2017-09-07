@@ -7,18 +7,46 @@
     * [新增线索](chapter1/xian-suo/xin-zeng-xian-suo.md)
     * [导入线索](chapter1/xian-suo/dao-ru-xian-suo.md)
     * [线索查重](chapter1/xian-suo/xian-suo-cha-zhong.md)
-    * [线索转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)
+    * [线索转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)给他人
+
     * [批量编辑](chapter1/xian-suo/pi-liang-bian-ji.md)
     * [批量删除](chapter1/xian-suo/pi-liang-shan-chu.md)
     * [快捷编辑](chapter1/xian-suo/kuai-jie-bian-ji.md)
     * [自定义筛选](chapter1/xian-suo/zi-ding-yi-shai-xuan.md)
     * [自定义显示列](chapter1/xian-suo/zi-ding-yi-xian-shi-lie.md)
     * [线索查询](chapter1/xian-suo/xian-suo-cha-xun.md)
+    * 导出线索
     * [转成客户](chapter1/xian-suo/zhuan-cheng-ke-hu.md)
     * [写跟进](chapter1/xian-suo/xie-gen-jin.md)
-    * 新增提醒
-    * 新增附件
+    * [提醒](chapter1/xian-suo/xin-zeng-ti-xing.md)
+    * [附件](chapter1/xian-suo/xin-zeng-fu-jian.md)
+    * 操作日志
   * [客户](chapter1/ke-hu.md)
+    * 什么是客户
+    * 新增客户
+    * 导入客户
+    * 导入客户跟进记录
+    * 客户查重
+    * 转移给他人
+    * 转移至公海
+    * 添加协作人
+    * 合并客户
+    * 批量编辑
+    * 批量删除
+    * 快捷编辑
+    * 自定义筛选
+    * 自定义显示列
+    * 客户查询
+    * 导出客户
+    * 添加联系人
+    * 添加商机
+    * 添加合同
+    * 添加费用
+    * 下级客户
+    * 写跟进
+    * 提醒
+    * 附件
+    * 操作日志
   * [客户公海](chapter1/ke-hu-gong-hai.md)
   * [联系人](chapter1/lian-xi-ren.md)
   * [商机](chapter1/shang-ji.md)
