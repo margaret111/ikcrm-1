@@ -86,10 +86,9 @@
     * 我协作的联系人
     * 我下属协作的联系人
     * 导出联系人
-
     * 写跟进
-    * 联系人角色
-    * 操作日志
+    * [联系人角色](chapter1/lian-xi-ren/lian-xi-ren-jiao-se.md)
+    * [操作日志](chapter1/lian-xi-ren/cao-zuo-ri-zhi.md)
   * [商机](chapter1/shang-ji.md)
   * [合同](chapter1/he-tong.md)
   * [回款](chapter1/hui-kuan.md)
@@ -110,6 +109,4 @@
   * [爱客CRM都有哪些API接口](apidui-jie/ai-ke-crm-du-you-na-xie-api-jie-kou.md)
   * [如何获取user\_token](apidui-jie/ru-he-huo-qu-user-token.md)
   * [API请求次数有什么限制吗](apidui-jie/apiqing-qiu-ci-shu-you-shi-yao-xian-zhi-ma.md)
-
-
 
