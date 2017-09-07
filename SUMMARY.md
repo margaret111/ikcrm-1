@@ -4,6 +4,9 @@
 * [爱客CRM功能](chapter1.md)
   * [线索](chapter1/xian-suo.md)
     * [什么是线索](chapter1/xian-suo/shi-yao-shi-xian-suo.md)
+    * 新增线索
+    * 导入线索
+    * 
   * [客户](chapter1/ke-hu.md)
   * [客户公海](chapter1/ke-hu-gong-hai.md)
   * [联系人](chapter1/lian-xi-ren.md)
@@ -21,12 +24,11 @@
   * [呼叫中心](chapter1/hu-jiao-zhong-xin.md)
   * [知识库](chapter1/zhi-shi-ku.md)
 * [API对接](apidui-jie.md)
-  * API接口是什么
-  * API接口怎么用
-
-  * 爱客CRM都有哪些API接口
-  * 如何获取user\_token
-  * API请求次数有什么限制吗
+  * [API接口是什么](apidui-jie/apijie-kou-shi-shi-yao.md)
+  * [API接口怎么用](apidui-jie/apijie-kou-zen-yao-yong.md)
+  * [爱客CRM都有哪些API接口](apidui-jie/ai-ke-crm-du-you-na-xie-api-jie-kou.md)
+  * [如何获取user\_token](apidui-jie/ru-he-huo-qu-user-token.md)
+  * [API请求次数有什么限制吗](apidui-jie/apiqing-qiu-ci-shu-you-shi-yao-xian-zhi-ma.md)
 
 
 
