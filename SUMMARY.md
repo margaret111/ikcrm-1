@@ -6,16 +6,16 @@
     * [什么是线索](chapter1/xian-suo/shi-yao-shi-xian-suo.md)
     * [新增线索](chapter1/xian-suo/xin-zeng-xian-suo.md)
     * [导入线索](chapter1/xian-suo/dao-ru-xian-suo.md)
-    * 线索查重
-    * 线索转移
-    * 批量编辑
-    * 批量删除
-    * 快捷编辑
-    * 自定义筛选
-    * 自定义显示列
-    * 线索查询
-    * 转成客户
-    * 写跟进
+    * [线索查重](chapter1/xian-suo/xian-suo-cha-zhong.md)
+    * [线索转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)
+    * [批量编辑](chapter1/xian-suo/pi-liang-bian-ji.md)
+    * [批量删除](chapter1/xian-suo/pi-liang-shan-chu.md)
+    * [快捷编辑](chapter1/xian-suo/kuai-jie-bian-ji.md)
+    * [自定义筛选](chapter1/xian-suo/zi-ding-yi-shai-xuan.md)
+    * [自定义显示列](chapter1/xian-suo/zi-ding-yi-xian-shi-lie.md)
+    * [线索查询](chapter1/xian-suo/xian-suo-cha-xun.md)
+    * [转成客户](chapter1/xian-suo/zhuan-cheng-ke-hu.md)
+    * [写跟进](chapter1/xian-suo/xie-gen-jin.md)
   * [客户](chapter1/ke-hu.md)
   * [客户公海](chapter1/ke-hu-gong-hai.md)
   * [联系人](chapter1/lian-xi-ren.md)
@@ -38,6 +38,4 @@
   * [爱客CRM都有哪些API接口](apidui-jie/ai-ke-crm-du-you-na-xie-api-jie-kou.md)
   * [如何获取user\_token](apidui-jie/ru-he-huo-qu-user-token.md)
   * [API请求次数有什么限制吗](apidui-jie/apiqing-qiu-ci-shu-you-shi-yao-xian-zhi-ma.md)
-
-
 
