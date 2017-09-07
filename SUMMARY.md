@@ -86,6 +86,10 @@
     * 我协作的联系人
     * 我下属协作的联系人
     * 导出联系人
+
+    * 写跟进
+    * 联系人角色
+    * 操作日志
   * [商机](chapter1/shang-ji.md)
   * [合同](chapter1/he-tong.md)
   * [回款](chapter1/hui-kuan.md)
@@ -99,6 +103,7 @@
   * [短信群发](chapter1/duan-xin-qun-fa.md)
   * [呼叫中心](chapter1/hu-jiao-zhong-xin.md)
   * [知识库](chapter1/zhi-shi-ku.md)
+  * 通知中心
 * [API对接](apidui-jie.md)
   * [API接口是什么](apidui-jie/apijie-kou-shi-shi-yao.md)
   * [API接口怎么用](apidui-jie/apijie-kou-zen-yao-yong.md)
