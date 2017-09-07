@@ -7,8 +7,7 @@
     * [新增线索](chapter1/xian-suo/xin-zeng-xian-suo.md)
     * [导入线索](chapter1/xian-suo/dao-ru-xian-suo.md)
     * [线索查重](chapter1/xian-suo/xian-suo-cha-zhong.md)
-    * [线索转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)给他人
-
+    * [线索转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)
     * [批量编辑](chapter1/xian-suo/pi-liang-bian-ji.md)
     * [批量删除](chapter1/xian-suo/pi-liang-shan-chu.md)
     * [快捷编辑](chapter1/xian-suo/kuai-jie-bian-ji.md)
@@ -22,11 +21,11 @@
     * [附件](chapter1/xian-suo/xin-zeng-fu-jian.md)
     * 操作日志
   * [客户](chapter1/ke-hu.md)
-    * 什么是客户
-    * 新增客户
+    * [什么是客户](chapter1/ke-hu/shi-yao-shi-ke-hu.md)
+    * [新增客户](chapter1/ke-hu/xin-zeng-ke-hu.md)
     * 导入客户
-    * 导入客户跟进记录
-    * 客户查重
+    * [导入客户跟进记录](chapter1/ke-hu/dao-ru-ke-hu-gen-jin-ji-lu.md)
+    * [客户查重](chapter1/ke-hu/ke-hu-cha-zhong.md)
     * 转移给他人
     * 转移至公海
     * 添加协作人
@@ -48,6 +47,20 @@
     * 附件
     * 操作日志
   * [客户公海](chapter1/ke-hu-gong-hai.md)
+    * 什么是客户公海
+
+    * 公海管理员
+
+    * 导入客户至公海
+    * 转移给他人
+    * 转移至其他公海
+    * 合并客户
+    * 批量编辑
+    * 批量删除
+    * 快捷编辑
+
+    * 公海成员
+    * 所属公海
   * [联系人](chapter1/lian-xi-ren.md)
   * [商机](chapter1/shang-ji.md)
   * [合同](chapter1/he-tong.md)
