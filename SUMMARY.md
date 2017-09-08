@@ -180,7 +180,16 @@
     * 短信转化率报表
     * 短信到达率报表
     * 自定义报表
-  * [工作报告](chapter1/gong-zuo-bao-gao.md)
+  * [工作](chapter1/gong-zuo-bao-gao.md)报告
+    * 什么是工作报告
+    * 写工作报告
+    * 编辑工作报告
+    * 删除工作报告
+    * 提交给我的报告
+    * 我提交的报告
+    * 我下属的报告
+    * 报告统计
+    * 导出工作报告
   * [跟进记录](chapter1/gen-jin-ji-lu.md)
   * [业绩目标](chapter1/ye-ji-mu-biao.md)
   * [费用报销](chapter1/fei-yong-bao-xiao.md)
@@ -204,4 +213,6 @@
 * 关于安全
   * 帐号安全
   * 数据安全
+
+
 
