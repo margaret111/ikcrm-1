@@ -191,27 +191,23 @@
   * [呼叫中心](chapter1/hu-jiao-zhong-xin.md)
     * 一键拨号
     * 来电弹屏
-
     * 通话记录
-
     * 播放录音
-
     * 下载录音
-
     * 批量拨号
   * 工商查询
   * 风险信息订阅
   * 业绩提成
   * [知识库](chapter1/zhi-shi-ku.md)
-  * 工作台
+  * [工作台](chapter1/gong-zuo-tai.md)
   * 通知中心
   * 提醒
   * 附件
   * 操作日志
-  * 快捷编辑
-  * 自定义筛选
-  * 自定义显示列
-  * 搜索和查询
+  * [快捷编辑](chapter1/kuai-jie-bian-ji.md)
+  * [自定义筛选](chapter1/zi-ding-yi-shai-xuan.md)
+  * [自定义显示列](chapter1/zi-ding-yi-xian-shi-lie.md)
+  * [搜索和查询](chapter1/sou-suo-he-cha-xun.md)
 * [系统设置](xi-tong-she-zhi.md)
   * [部门和用户](xi-tong-she-zhi/bu-men-he-yong-hu.md)
   * [角色和权限](xi-tong-she-zhi/jiao-se-he-quan-xian.md)
@@ -240,6 +236,4 @@
 * [关于安全](guan-yu-an-quan.md)
   * [帐号安全](zhang-hao-an-quan.md)
   * [数据安全](shu-ju-an-quan.md)
-
-
 
