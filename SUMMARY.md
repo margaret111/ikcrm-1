@@ -21,10 +21,6 @@
     * 已转客户的线索
     * 导出线索
     * [转成客户](chapter1/xian-suo/zhuan-cheng-ke-hu.md)
-    * [写跟进](chapter1/xian-suo/xie-gen-jin.md)
-    * [提醒](chapter1/xian-suo/xin-zeng-ti-xing.md)
-    * [附件](chapter1/xian-suo/xin-zeng-fu-jian.md)
-    * 操作日志
   * [客户](chapter1/ke-hu.md)
     * [什么是客户](chapter1/ke-hu/shi-yao-shi-ke-hu.md)
     * [新增客户](chapter1/ke-hu/xin-zeng-ke-hu.md)
@@ -52,10 +48,6 @@
     * 添加合同
     * 添加费用
     * 下级客户
-    * 写跟进
-    * 提醒
-    * 附件
-    * 操作日志
   * [客户公海](chapter1/ke-hu-gong-hai.md)
     * 什么是客户公海
     * 公海管理员
@@ -87,9 +79,7 @@
     * 我协作的联系人
     * 我下属协作的联系人
     * 导出联系人
-    * 写跟进
     * [联系人角色](chapter1/lian-xi-ren/lian-xi-ren-jiao-se.md)
-    * [操作日志](chapter1/lian-xi-ren/cao-zuo-ri-zhi.md)
   * [商机](chapter1/shang-ji.md)
     * 什么是商机
     * 新增商机
@@ -112,10 +102,6 @@
     * 添加联系人
     * 添加产品
     * 添加费用
-    * 写跟进
-    * 提醒
-    * 附件
-    * 操作日志
   * [合同](chapter1/he-tong.md)
   * [回款](chapter1/hui-kuan.md)
   * [产品](chapter1/chan-pin.md)
@@ -129,6 +115,9 @@
   * [呼叫中心](chapter1/hu-jiao-zhong-xin.md)
   * [知识库](chapter1/zhi-shi-ku.md)
   * 通知中心
+  * 提醒
+  * 附件
+  * 操作日志
 * [API对接](apidui-jie.md)
   * [API接口是什么](apidui-jie/apijie-kou-shi-shi-yao.md)
   * [API接口怎么用](apidui-jie/apijie-kou-zen-yao-yong.md)
