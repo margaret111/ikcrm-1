@@ -191,6 +191,11 @@
     * 报告统计
     * 导出工作报告
   * [跟进记录](chapter1/gen-jin-ji-lu.md)
+    * 什么是跟进记录
+    * 写跟进
+    * 删除跟进记录
+    * 评论跟进记录
+    * 回复评论
   * [业绩目标](chapter1/ye-ji-mu-biao.md)
   * [费用报销](chapter1/fei-yong-bao-xiao.md)
   * [数据上报](chapter1/shu-ju-shang-bao.md)
