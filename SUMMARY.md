@@ -2,16 +2,15 @@
 
 * [爱客CRM简介](README.md)
 * [爱客CRM功能](chapter1.md)
-
   * [线索](chapter1/xian-suo.md)
     * [什么是线索](chapter1/xian-suo/shi-yao-shi-xian-suo.md)
     * [新增线索](chapter1/xian-suo/xin-zeng-xian-suo.md)
     * [导入线索](chapter1/xian-suo/dao-ru-xian-suo.md)
     * 扫描名片
     * [线索查重](chapter1/xian-suo/xian-suo-cha-zhong.md)
-    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)给他人
-    * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)线索
-    * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)线索
+    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)
+    * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)
+    * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)
     * [快捷编辑](chapter1/xian-suo/kuai-jie-bian-ji.md)
     * [自定义筛选](chapter1/xian-suo/zi-ding-yi-shai-xuan.md)
     * [自定义显示列](chapter1/xian-suo/zi-ding-yi-xian-shi-lie.md)
@@ -133,30 +132,21 @@
     * 添加费用
     * 复制合同
   * [回款](chapter1/hui-kuan.md)
-
     * 什么是回款计划
     * 新增回款计划
     * 导入回款计划
     * 导出回款计划
     * 什么是回款记录
     * 新增回款记录
-
     * 导入回款记录
-
     * 导出回款记录
-
     * 什么是开票记录
-
     * 新增开票记录
-
     * 导入开票记录
-
     * 导出开票记录
-
   * [产品](chapter1/chan-pin.md)
-
-    * 什么是产品
-    * 新增产品
+    * [什么是产品](chapter1/chan-pin/shi-yao-shi-chan-pin.md)
+    * [新增产品](chapter1/chan-pin/xin-zeng-chan-pin.md)
     * 导入产品
     * 编辑产品
     * 删除产品
@@ -168,13 +158,9 @@
     * 自定义显示列
     * 产品查询
     * 导出产品
-
   * [报表中心](chapter1/bao-biao-zhong-xin.md)
-
   * [工作报告](chapter1/gong-zuo-bao-gao.md)
-
   * [跟进记录](chapter1/gen-jin-ji-lu.md)
-
   * [业绩目标](chapter1/ye-ji-mu-biao.md)
   * [费用报销](chapter1/fei-yong-bao-xiao.md)
   * [数据上报](chapter1/shu-ju-shang-bao.md)
@@ -188,19 +174,13 @@
   * 提醒
   * 附件
   * 操作日志
-
 * [API对接](apidui-jie.md)
-
   * [API接口是什么](apidui-jie/apijie-kou-shi-shi-yao.md)
   * [API接口怎么用](apidui-jie/apijie-kou-zen-yao-yong.md)
   * [爱客CRM都有哪些API接口](apidui-jie/ai-ke-crm-du-you-na-xie-api-jie-kou.md)
   * [如何获取user\_token](apidui-jie/ru-he-huo-qu-user-token.md)
   * [API请求次数有什么限制吗](apidui-jie/apiqing-qiu-ci-shu-you-shi-yao-xian-zhi-ma.md)
-
 * 关于安全
-
   * 帐号安全
   * 数据安全
-
-
 
