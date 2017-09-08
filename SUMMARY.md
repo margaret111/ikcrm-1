@@ -161,8 +161,8 @@
   * [报表中心](chapter1/bao-biao-zhong-xin.md)
     * 跟进记录报表
     * 销售预测报表
-    * 销售漏斗报表
-    * 业务新增汇总报表
+    * [销售漏斗报表](chapter1/bao-biao-zhong-xin/xiao-shou-lou-dou-bao-biao.md)
+    * [业务新增汇总报表](chapter1/bao-biao-zhong-xin/ye-wu-xin-zeng-hui-zong-bao-biao.md)
     * 业绩目标完成度报表
     * 回款计划汇总报表
     * 产品销售汇总报表
@@ -170,25 +170,15 @@
     * 合同汇总报表
     * 拜访签到报表
     * 销售回款排名报表
-
     * 客户数量排名报表
-
     * 业绩目标完成度排名报表
-
     * 销售额排名报表
-
     * 线索转化率
-
     * 工作报告报表
-
     * 客户类型统计报表
-
     * 数据上报报表
-
     * 短信转化率报表
-
     * 短信到达率报表
-
     * 自定义报表
   * [工作报告](chapter1/gong-zuo-bao-gao.md)
   * [跟进记录](chapter1/gen-jin-ji-lu.md)
@@ -214,6 +204,4 @@
 * 关于安全
   * 帐号安全
   * 数据安全
-
-
 
