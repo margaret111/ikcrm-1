@@ -7,9 +7,9 @@
     * [导入线索](chapter1/xian-suo/dao-ru-xian-suo.md)
     * 扫描名片
     * [线索查重](chapter1/xian-suo/xian-suo-cha-zhong.md)
-    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)给他人
-    * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)线索
-    * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)线索
+    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)
+    * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)
+    * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)
     * 全部线索
     * 我的线索
     * 我下属的线索
@@ -196,34 +196,32 @@
   * 自定义筛选
   * 自定义显示列
   * 搜索和查询
-* 系统设置
-  * 部门和用户
-  * 角色和权限
-  * 公司信息
-  * 公告管理
-  * 业绩目标
-  * 查重设置
-  * 客户公海
-  * 工作报告
-  * 数据上报
-  * 呼叫中心
-  * 短信设置
-  * 自定义业务
-  * 自定义业务字段
-  * 自定义业务参数
-  * 自定义审批
-  * 更多设置
-  * 密码规则设置
-  * 日志查询
+* [系统设置](xi-tong-she-zhi.md)
+  * [部门和用户](xi-tong-she-zhi/bu-men-he-yong-hu.md)
+  * [角色和权限](xi-tong-she-zhi/jiao-se-he-quan-xian.md)
+  * [公司信息](xi-tong-she-zhi/gong-si-xin-xi.md)
+  * [公告管理](xi-tong-she-zhi/gong-gao-guan-li.md)
+  * [业绩目标](xi-tong-she-zhi/ye-ji-mu-biao.md)
+  * [查重设置](xi-tong-she-zhi/cha-zhong-she-zhi.md)
+  * [客户公海](xi-tong-she-zhi/ke-hu-gong-hai.md)
+  * [工作报告](xi-tong-she-zhi/gong-zuo-bao-gao.md)
+  * [数据上报](xi-tong-she-zhi/shu-ju-shang-bao.md)
+  * [呼叫中心](xi-tong-she-zhi/hu-jiao-zhong-xin.md)
+  * [短信设置](xi-tong-she-zhi/duan-xin-she-zhi.md)
+  * [自定义业务](xi-tong-she-zhi/zi-ding-yi-ye-wu.md)
+  * [自定义业务字段](xi-tong-she-zhi/zi-ding-yi-ye-wu-zi-duan.md)
+  * [自定义业务参数](xi-tong-she-zhi/zi-ding-yi-ye-wu-can-shu.md)
+  * [自定义审批](xi-tong-she-zhi/zi-ding-yi-shen-pi.md)
+  * [更多设置](xi-tong-she-zhi/geng-duo-she-zhi.md)
+  * [密码规则设置](xi-tong-she-zhi/mi-ma-gui-ze-she-zhi.md)
+  * [日志查询](xi-tong-she-zhi/ri-zhi-cha-xun.md)
 * [API对接](apidui-jie.md)
   * [API接口是什么](apidui-jie/apijie-kou-shi-shi-yao.md)
   * [API接口怎么用](apidui-jie/apijie-kou-zen-yao-yong.md)
   * [爱客CRM都有哪些API接口](apidui-jie/ai-ke-crm-du-you-na-xie-api-jie-kou.md)
   * [如何获取user\_token](apidui-jie/ru-he-huo-qu-user-token.md)
   * [API请求次数有什么限制吗](apidui-jie/apiqing-qiu-ci-shu-you-shi-yao-xian-zhi-ma.md)
-* 关于安全
-  * 帐号安全
-  * 数据安全
-
-
+* [关于安全](guan-yu-an-quan.md)
+  * [帐号安全](zhang-hao-an-quan.md)
+  * [数据安全](shu-ju-an-quan.md)
 
