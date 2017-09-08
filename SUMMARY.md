@@ -8,9 +8,9 @@
     * [导入线索](chapter1/xian-suo/dao-ru-xian-suo.md)
     * 扫描名片
     * [线索查重](chapter1/xian-suo/xian-suo-cha-zhong.md)
-    * [线索转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)
-    * [批量编辑](chapter1/xian-suo/pi-liang-bian-ji.md)
-    * [批量删除](chapter1/xian-suo/pi-liang-shan-chu.md)
+    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)给他人
+    * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)线索
+    * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)线索
     * [快捷编辑](chapter1/xian-suo/kuai-jie-bian-ji.md)
     * [自定义筛选](chapter1/xian-suo/zi-ding-yi-shai-xuan.md)
     * [自定义显示列](chapter1/xian-suo/zi-ding-yi-xian-shi-lie.md)
@@ -35,8 +35,8 @@
     * 转移至公海
     * 添加协作人
     * 合并客户
-    * 批量编辑
-    * 批量删除
+    * 编辑客户
+    * 删除客户
     * 快捷编辑
     * 自定义筛选
     * 自定义显示列
@@ -63,8 +63,8 @@
     * 转移给他人
     * 转移至其他公海
     * 合并客户
-    * 批量编辑
-    * 批量删除
+    * 编辑公海客户
+    * 删除公海客户
     * 快捷编辑
     * [公海成员](chapter1/ke-hu-gong-hai/gong-hai-cheng-yuan.md)
     * 抢客户
