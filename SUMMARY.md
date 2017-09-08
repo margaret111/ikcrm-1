@@ -182,8 +182,8 @@
   * [数据上报](chapter1/shu-ju-shang-bao.md)
     * 新增数据上报
   * [短信群发](chapter1/duan-xin-qun-fa.md)
-    * 通知短信
-    * 模板短信
+    * 购买短信
+    * 发送短信
   * [呼叫中心](chapter1/hu-jiao-zhong-xin.md)
     * 一键拨号
     * 
