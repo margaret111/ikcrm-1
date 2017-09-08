@@ -191,7 +191,7 @@
     * 回复评论
   * [业绩目标](chapter1/ye-ji-mu-biao.md)
     * 设置业绩目标
-    * 查看
+    * 查看业绩目标完成情况
   * [费用报销](chapter1/fei-yong-bao-xiao.md)
   * [数据上报](chapter1/shu-ju-shang-bao.md)
   * [短信群发](chapter1/duan-xin-qun-fa.md)
