@@ -193,6 +193,7 @@
     * 设置业绩目标
     * 查看业绩目标完成情况
   * [费用报销](chapter1/fei-yong-bao-xiao.md)
+    * 新增费用
   * [数据上报](chapter1/shu-ju-shang-bao.md)
   * [短信群发](chapter1/duan-xin-qun-fa.md)
   * [呼叫中心](chapter1/hu-jiao-zhong-xin.md)
