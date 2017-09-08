@@ -10,10 +10,7 @@
     * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)
     * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)
     * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)
-    * [快捷编辑](chapter1/xian-suo/kuai-jie-bian-ji.md)
-    * [自定义筛选](chapter1/xian-suo/zi-ding-yi-shai-xuan.md)
-    * [自定义显示列](chapter1/xian-suo/zi-ding-yi-xian-shi-lie.md)
-    * [线索查询](chapter1/xian-suo/xian-suo-cha-xun.md)
+
     * 全部线索
     * 我的线索
     * 我下属的线索
@@ -31,10 +28,7 @@
     * 合并客户
     * 编辑客户
     * 删除客户
-    * 快捷编辑
-    * 自定义筛选
-    * 自定义显示列
-    * 客户查询
+
     * 全部客户
     * 我的客户
     * 我下属的客户
@@ -67,9 +61,6 @@
     * 联系人查重
     * 编辑联系人
     * 删除联系人
-    * 自定义筛选
-    * 自定义显示列
-    * 联系人查询
     * 全部联系人
     * 我的联系人
     * 我下属的联系人
@@ -85,10 +76,7 @@
     * 添加协作人
     * 编辑商机
     * 删除商机
-    * 快捷编辑
-    * 自定义筛选
-    * 自定义显示列
-    * 商机查询
+
     * 全部商机
     * 我的商机
     * 我下属的商机
@@ -107,10 +95,7 @@
     * 添加协作人
     * 编辑合同
     * 删除合同
-    * 快捷编辑
-    * 自定义筛选
-    * 自定义显示列
-    * 合同查询
+
     * 全部合同
     * 我的合同
     * 我下属的合同
@@ -145,8 +130,7 @@
     * 新增产品分类
     * 编辑产品分类
     * 删除产品分类
-    * 自定义显示列
-    * 产品查询
+
     * 导出产品
   * [报表中心](chapter1/bao-biao-zhong-xin.md)
     * 跟进记录报表
@@ -194,6 +178,11 @@
     * 查看业绩目标完成情况
   * [费用报销](chapter1/fei-yong-bao-xiao.md)
     * 新增费用
+    * 新增报销单
+    * 全部报销单
+    * 我的报销单
+    * 全部费用
+    * 我的费用
   * [数据上报](chapter1/shu-ju-shang-bao.md)
   * [短信群发](chapter1/duan-xin-qun-fa.md)
   * [呼叫中心](chapter1/hu-jiao-zhong-xin.md)
@@ -206,6 +195,10 @@
   * 提醒
   * 附件
   * 操作日志
+  * 快捷编辑
+  * 自定义筛选
+  * 自定义显示列
+  * 查询
 * [API对接](apidui-jie.md)
   * [API接口是什么](apidui-jie/apijie-kou-shi-shi-yao.md)
   * [API接口怎么用](apidui-jie/apijie-kou-zen-yao-yong.md)
