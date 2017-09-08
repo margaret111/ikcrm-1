@@ -131,6 +131,19 @@
     * 添加费用
     * 复制合同
   * [回款](chapter1/hui-kuan.md)
+    * 什么是回款计划
+    * 新增回款计划
+    * 导入回款计划
+    * 导出回款计划
+    * 什么是回款记录
+    * 新增回款记录
+
+    * 导入回款记录
+    * 导出回款记录
+    * 什么是开票记录
+    * 新增开票记录
+    * 导入开票记录
+    * 导出开票记录
   * [产品](chapter1/chan-pin.md)
   * [报表中心](chapter1/bao-biao-zhong-xin.md)
   * [工作报告](chapter1/gong-zuo-bao-gao.md)
