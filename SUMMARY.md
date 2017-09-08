@@ -3,7 +3,6 @@
 * [爱客CRM简介](README.md)
 * [爱客CRM功能](chapter1.md)
   * [线索](chapter1/xian-suo.md)
-    * [什么是线索](chapter1/xian-suo/shi-yao-shi-xian-suo.md)
     * [新增线索](chapter1/xian-suo/xin-zeng-xian-suo.md)
     * [导入线索](chapter1/xian-suo/dao-ru-xian-suo.md)
     * 扫描名片
@@ -22,7 +21,6 @@
     * 导出线索
     * [转成客户](chapter1/xian-suo/zhuan-cheng-ke-hu.md)
   * [客户](chapter1/ke-hu.md)
-    * [什么是客户](chapter1/ke-hu/shi-yao-shi-ke-hu.md)
     * [新增客户](chapter1/ke-hu/xin-zeng-ke-hu.md)
     * 导入客户
     * [导入客户跟进记录](chapter1/ke-hu/dao-ru-ke-hu-gen-jin-ji-lu.md)
@@ -50,7 +48,6 @@
     * 添加费用
     * 下级客户
   * [客户公海](chapter1/ke-hu-gong-hai.md)
-    * 什么是客户公海
     * 公海管理员
     * 导入客户至公海
     * 转移给他人
@@ -64,7 +61,6 @@
     * 抢客户
     * 所属公海
   * [联系人](chapter1/lian-xi-ren.md)
-    * 什么是联系人
     * 新增联系人
     * 导入联系人
     * 扫描名片
@@ -82,7 +78,6 @@
     * 导出联系人
     * [联系人角色](chapter1/lian-xi-ren/lian-xi-ren-jiao-se.md)
   * [商机](chapter1/shang-ji.md)
-    * 什么是商机
     * 新增商机
     * 导入商机
     * 导入商机跟进记录
@@ -105,7 +100,6 @@
     * 添加费用
     * 转成合同
   * [合同](chapter1/he-tong.md)
-    * 什么是合同
     * 新增合同
     * 导入合同
     * 导入合同跟进记录
@@ -132,20 +126,16 @@
     * 添加费用
     * 复制合同
   * [回款](chapter1/hui-kuan.md)
-    * 什么是回款计划
     * 新增回款计划
     * 导入回款计划
     * 导出回款计划
-    * 什么是回款记录
     * 新增回款记录
     * 导入回款记录
     * 导出回款记录
-    * 什么是开票记录
     * 新增开票记录
     * 导入开票记录
     * 导出开票记录
   * [产品](chapter1/chan-pin.md)
-    * [什么是产品](chapter1/chan-pin/shi-yao-shi-chan-pin.md)
     * [新增产品](chapter1/chan-pin/xin-zeng-chan-pin.md)
     * 导入产品
     * 编辑产品
@@ -181,7 +171,6 @@
     * 短信到达率报表
     * 自定义报表
   * [工作](chapter1/gong-zuo-bao-gao.md)报告
-    * 什么是工作报告
     * 写工作报告
     * 编辑工作报告
     * 删除工作报告
@@ -194,7 +183,6 @@
     * 点评工作报告
     * 回复点评
   * [跟进记录](chapter1/gen-jin-ji-lu.md)
-    * 什么是跟进记录
     * 写跟进
     * 导入跟进记录
     * 删除跟进记录
@@ -202,7 +190,7 @@
     * 评论跟进记录
     * 回复评论
   * [业绩目标](chapter1/ye-ji-mu-biao.md)
-    * 什么是业绩目标
+    * 设置业绩目标
   * [费用报销](chapter1/fei-yong-bao-xiao.md)
   * [数据上报](chapter1/shu-ju-shang-bao.md)
   * [短信群发](chapter1/duan-xin-qun-fa.md)
