@@ -242,7 +242,7 @@
   * 附件上传
   * 电销版—无线话机
   * 电销版—电话宝
-  * 钉钉客户端
+  * 钉钉相关
 * * [API对接](apidui-jie.md)
     * [API接口是什么](apidui-jie/apijie-kou-shi-shi-yao.md)
     * [API接口怎么用](apidui-jie/apijie-kou-zen-yao-yong.md)
