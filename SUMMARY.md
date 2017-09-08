@@ -2,7 +2,9 @@
 
 * [爱客CRM简介](README.md)
 * [爱客CRM功能](chapter1.md)
+
   * [线索](chapter1/xian-suo.md)
+
     * [新增线索](chapter1/xian-suo/xin-zeng-xian-suo.md)
     * [导入线索](chapter1/xian-suo/dao-ru-xian-suo.md)
     * 扫描名片
@@ -12,12 +14,15 @@
     * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)
 
     * 全部线索
+
     * 我的线索
     * 我下属的线索
     * 已转客户的线索
     * 导出线索
     * [转成客户](chapter1/xian-suo/zhuan-cheng-ke-hu.md)
+
   * [客户](chapter1/ke-hu.md)
+
     * [新增客户](chapter1/ke-hu/xin-zeng-ke-hu.md)
     * 导入客户
     * [导入客户跟进记录](chapter1/ke-hu/dao-ru-ke-hu-gen-jin-ji-lu.md)
@@ -30,6 +35,7 @@
     * 删除客户
 
     * 全部客户
+
     * 我的客户
     * 我下属的客户
     * 我协作的客户
@@ -41,6 +47,7 @@
     * 添加合同
     * 添加费用
     * 下级客户
+
   * [客户公海](chapter1/ke-hu-gong-hai.md)
     * 公海管理员
     * 导入客户至公海
@@ -69,6 +76,7 @@
     * 导出联系人
     * [联系人角色](chapter1/lian-xi-ren/lian-xi-ren-jiao-se.md)
   * [商机](chapter1/shang-ji.md)
+
     * 新增商机
     * 导入商机
     * 导入商机跟进记录
@@ -78,6 +86,7 @@
     * 删除商机
 
     * 全部商机
+
     * 我的商机
     * 我下属的商机
     * 我协作的商机
@@ -87,7 +96,9 @@
     * 添加产品
     * 添加费用
     * 转成合同
+
   * [合同](chapter1/he-tong.md)
+
     * 新增合同
     * 导入合同
     * 导入合同跟进记录
@@ -97,6 +108,7 @@
     * 删除合同
 
     * 全部合同
+
     * 我的合同
     * 我下属的合同
     * 我协作的合同
@@ -110,6 +122,7 @@
     * 添加产品
     * 添加费用
     * 复制合同
+
   * [回款](chapter1/hui-kuan.md)
     * 新增回款计划
     * 导入回款计划
@@ -121,6 +134,7 @@
     * 导入开票记录
     * 导出开票记录
   * [产品](chapter1/chan-pin.md)
+
     * [新增产品](chapter1/chan-pin/xin-zeng-chan-pin.md)
     * 导入产品
     * 编辑产品
@@ -132,6 +146,7 @@
     * 删除产品分类
 
     * 导出产品
+
   * [报表中心](chapter1/bao-biao-zhong-xin.md)
     * 跟进记录报表
     * 销售预测报表
@@ -198,7 +213,8 @@
   * 快捷编辑
   * 自定义筛选
   * 自定义显示列
-  * 查询
+  * 搜索和查询
+
 * [API对接](apidui-jie.md)
   * [API接口是什么](apidui-jie/apijie-kou-shi-shi-yao.md)
   * [API接口怎么用](apidui-jie/apijie-kou-zen-yao-yong.md)
