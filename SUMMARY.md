@@ -125,6 +125,7 @@
     * 我下属协作的合同
     * 待审批的合同
     * 我的草稿
+    * 导出合同
     * 配置回款计划
     * 添加回款记录
     * 添加开票记录
@@ -147,16 +148,30 @@
     * 什么是开票记录
 
     * 新增开票记录
+
     * 导入开票记录
     * 导出开票记录
 
   * [产品](chapter1/chan-pin.md)
 
     * 什么是产品
+    * 新增产品
+    * 导入产品
+    * 编辑产品
+    * 删除产品
+    * 禁用产品
+    * 启用产品
+    * 新增产品分类
+    * 编辑产品分类
+    * 删除产品分类
+    * 自定义显示列
+    * 产品查询
+    * 导出产品
 
   * [报表中心](chapter1/bao-biao-zhong-xin.md)
 
   * [工作报告](chapter1/gong-zuo-bao-gao.md)
+
   * [跟进记录](chapter1/gen-jin-ji-lu.md)
   * [业绩目标](chapter1/ye-ji-mu-biao.md)
   * [费用报销](chapter1/fei-yong-bao-xiao.md)
