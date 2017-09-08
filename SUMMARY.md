@@ -7,9 +7,9 @@
     * [导入线索](chapter1/xian-suo/dao-ru-xian-suo.md)
     * 扫描名片
     * [线索查重](chapter1/xian-suo/xian-suo-cha-zhong.md)
-    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)
-    * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)
-    * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)
+    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)给他人
+    * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)线索
+    * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)线索
     * 全部线索
     * 我的线索
     * 我下属的线索
@@ -47,7 +47,6 @@
     * 合并公海客户
     * 编辑公海客户
     * 删除公海客户
-    * 快捷编辑
     * 导出公海客户
     * [公海成员](chapter1/ke-hu-gong-hai/gong-hai-cheng-yuan.md)
     * 抢客户
