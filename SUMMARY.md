@@ -228,15 +228,27 @@
   * [密码规则设置](xi-tong-she-zhi/mi-ma-gui-ze-she-zhi.md)
   * [日志查询](xi-tong-she-zhi/ri-zhi-cha-xun.md)
 * 常见问题
-* [API对接](apidui-jie.md)
-  * [API接口是什么](apidui-jie/apijie-kou-shi-shi-yao.md)
-  * [API接口怎么用](apidui-jie/apijie-kou-zen-yao-yong.md)
-  * [爱客CRM都有哪些API接口](apidui-jie/ai-ke-crm-du-you-na-xie-api-jie-kou.md)
-  * [如何获取user\_token](apidui-jie/ru-he-huo-qu-user-token.md)
-  * [API请求次数有什么限制吗](apidui-jie/apiqing-qiu-ci-shu-you-shi-yao-xian-zhi-ma.md)
-* [关于安全](guan-yu-an-quan.md)
-  * [帐号安全](zhang-hao-an-quan.md)
-  * [数据安全](shu-ju-an-quan.md)
+  * 组织架构
+  * 查看权限
+  * 导入导出
+  * 客户公海
+  * 客户查重
+  * 线索转客户
+  * 商机转合同
+  * 回款计划于回款记录
+  * 短信群发
+  * 通知提醒
+  * 电销版—无线话机
+  * 电销版—电话宝
+* * [API对接](apidui-jie.md)
+    * [API接口是什么](apidui-jie/apijie-kou-shi-shi-yao.md)
+    * [API接口怎么用](apidui-jie/apijie-kou-zen-yao-yong.md)
+    * [爱客CRM都有哪些API接口](apidui-jie/ai-ke-crm-du-you-na-xie-api-jie-kou.md)
+    * [如何获取user\_token](apidui-jie/ru-he-huo-qu-user-token.md)
+    * [API请求次数有什么限制吗](apidui-jie/apiqing-qiu-ci-shu-you-shi-yao-xian-zhi-ma.md)
+  * [关于安全](guan-yu-an-quan.md)
+    * [帐号安全](zhang-hao-an-quan.md)
+    * [数据安全](shu-ju-an-quan.md)
 
 
 
