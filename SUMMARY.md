@@ -152,7 +152,7 @@
     * 呼入统计报表
     * 呼出流水报表
     * 呼入流水报表
-  * [工作](chapter1/gong-zuo-bao-gao.md)
+  * [工作](chapter1/gong-zuo-bao-gao.md)报告
     * 写工作报告
     * 编辑工作报告
     * 删除工作报告
@@ -227,6 +227,7 @@
   * [更多设置](xi-tong-she-zhi/geng-duo-she-zhi.md)
   * [密码规则设置](xi-tong-she-zhi/mi-ma-gui-ze-she-zhi.md)
   * [日志查询](xi-tong-she-zhi/ri-zhi-cha-xun.md)
+* 常见问题
 * [API对接](apidui-jie.md)
   * [API接口是什么](apidui-jie/apijie-kou-shi-shi-yao.md)
   * [API接口怎么用](apidui-jie/apijie-kou-zen-yao-yong.md)
